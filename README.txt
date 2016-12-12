@@ -4,6 +4,9 @@ Ziren Zhou (zirenz)
 Serhan Kiliccote (skilicco)
 Ben Chu (bcchu)
 
+nbview link:
+http://nbviewer.jupyter.org/github/glaser06/dankmemesdata2/blob/master/DANK-MEMES.ipynb
+
 Required modules:
 
 nltk
