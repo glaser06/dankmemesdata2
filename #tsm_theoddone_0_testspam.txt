@@ -1,0 +1,22 @@
+:tmi.twitch.tv 001 dankmemebot1 :Welcome, GLHF!
+:tmi.twitch.tv 002 dankmemebot1 :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 dankmemebot1 :This server is rather new
+:tmi.twitch.tv 004 dankmemebot1 :-
+:tmi.twitch.tv 375 dankmemebot1 :-
+:tmi.twitch.tv 372 dankmemebot1 :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 dankmemebot1 :>
+PING :tmi.twitch.tv
+PING :tmi.twitch.tv 
+:dankmemebot1!dankmemebot1@dankmemebot1.tmi.twitch.tv JOIN #tsm_theoddone
+:dankmemebot1.tmi.twitch.tv 353 dankmemebot1 = #tsm_theoddone :dankmemebot1
+:dankmemebot1.tmi.twitch.tv 366 dankmemebot1 #tsm_theoddone :End of /NAMES list 
+:beerbellies!beerbellies@beerbellies.tmi.twitch.tv PRIVMSG #tsm_theoddone :no it's cia 
+:thebigpipppo!thebigpipppo@thebigpipppo.tmi.twitch.tv PRIVMSG #tsm_theoddone :Mod spam DansGame 
+:floppy16!floppy16@floppy16.tmi.twitch.tv PRIVMSG #tsm_theoddone :nyanPls 
+:uglyweeb!uglyweeb@uglyweeb.tmi.twitch.tv PRIVMSG #tsm_theoddone :where's beerbellies denSad 
+:beerbellies!beerbellies@beerbellies.tmi.twitch.tv PRIVMSG #tsm_theoddone :cirHi 
+:neembuss!neembuss@neembuss.tmi.twitch.tv PRIVMSG #tsm_theoddone :@Immianthe, why is the anele emote getting timed out? just wondering 
+:noobykongo!noobykongo@noobykongo.tmi.twitch.tv PRIVMSG #tsm_theoddone :BombMan ReckClap 
+:heartseekerleona!heartseekerleona@heartseekerleona.tmi.twitch.tv PRIVMSG #tsm_theoddone :^ right there 
+:maximum_shyvana!maximum_shyvana@maximum_shyvana.tmi.twitch.tv PRIVMSG #tsm_theoddone :@neembuss, I will get stones for both and more eventually, but just getting started in the post-game of Sun so can only build around one for now
+:xray7745!xray7745@xray7745.tmi.twitch.tv PRIVMSG #tsm_theoddone :BombMan 

@@ -1,0 +1,427 @@
+:tmi.twitch.tv 001 dankmemebot1 :Welcome, GLHF!
+:tmi.twitch.tv 002 dankmemebot1 :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 dankmemebot1 :This server is rather new
+:tmi.twitch.tv 004 dankmemebot1 :-
+:tmi.twitch.tv 375 dankmemebot1 :-
+:tmi.twitch.tv 372 dankmemebot1 :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 dankmemebot1 :> 
+:dankmemebot1!dankmemebot1@dankmemebot1.tmi.twitch.tv JOIN #wingsofdeath
+:dankmemebot1.tmi.twitch.tv 353 dankmemebot1 = #wingsofdeath :dankmemebot1
+:dankmemebot1.tmi.twitch.tv 366 dankmemebot1 #wingsofdeath :End of /NAMES list 
+:tmi.twitch.tv 001 dankmemebot1 :Welcome, GLHF!
+:tmi.twitch.tv 002 dankmemebot1 :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 dankmemebot1 :This server is rather new
+:tmi.twitch.tv 004 dankmemebot1 :-
+:tmi.twitch.tv 375 dankmemebot1 :-
+:tmi.twitch.tv 372 dankmemebot1 :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 dankmemebot1 :>
+:dankmemebot1!dankmemebot1@dankmemebot1.tmi.twitch.tv JOIN #wingsofdeath
+:dankmemebot1.tmi.twitch.tv 353 dankmemebot1 = #wingsofdeath :dankmemebot1
+:dankmemebot1.tmi.twitch.tv 366 dankmemebot1 #wingsofdeath :End of /NAMES list 
+:tmi.twitch.tv 001 dankmemebot1 :Welcome, GLHF!
+:tmi.twitch.tv 002 dankmemebot1 :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 dankmemebot1 :This server is rather new
+:tmi.twitch.tv 004 dankmemebot1 :-
+:tmi.twitch.tv 375 dankmemebot1 :-
+:tmi.twitch.tv 372 dankmemebot1 :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 dankmemebot1 :>
+:dankmemebot1!dankmemebot1@dankmemebot1.tmi.twitch.tv JOIN #wingsofdeath
+:dankmemebot1.tmi.twitch.tv 353 dankmemebot1 = #wingsofdeath :dankmemebot1
+:dankmemebot1.tmi.twitch.tv 366 dankmemebot1 #wingsofdeath :End of /NAMES list 
+:picktalonpls!picktalonpls@picktalonpls.tmi.twitch.tv PRIVMSG #wingsofdeath :SwiftRage 
+:johnborch!johnborch@johnborch.tmi.twitch.tv PRIVMSG #wingsofdeath :KappaHD 
+:1onia!1onia@1onia.tmi.twitch.tv PRIVMSG #wingsofdeath :i love league of legends!
+:dutchstyx!dutchstyx@dutchstyx.tmi.twitch.tv PRIVMSG #wingsofdeath :@smites Its the good ol' Tobito Fate bankplank 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :I liked the old GP more 
+:mrlittlesam!mrlittlesam@mrlittlesam.tmi.twitch.tv PRIVMSG #wingsofdeath :SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :oooohhh
+:enkines!enkines@enkines.tmi.twitch.tv PRIVMSG #wingsofdeath :Wannabe tobias fate lul 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :ye 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :he 
+:xenocircuit!xenocircuit@xenocircuit.tmi.twitch.tv PRIVMSG #wingsofdeath :@smites what's wrong with you SwiftRage 
+:xanbot!xanbot@xanbot.tmi.twitch.tv PRIVMSG #wingsofdeath :You can subscribe to support the stream here! https://www.twitch.tv/products/wingsofdeath/ticket benefits include a subscriber icon, access to subscriber emotes, no ads during commercial breaks, not affected by chat slow mode as well as subscriber status in discord and access to subscriber games! 
+:xenocircuit!xenocircuit@xenocircuit.tmi.twitch.tv PRIVMSG #wingsofdeath :!commands 
+:mister_peach!mister_peach@mister_peach.tmi.twitch.tv PRIVMSG #wingsofdeath :And that's why nobody gets Spellthief's Edge on solo laners 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :is he running 10 flat cdr right 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :oooohooooo 
+:tsogiaman!tsogiaman@tsogiaman.tmi.twitch.tv PRIVMSG #wingsofdeath :we wanna some Irelio, you haven't played her at all the past few days Kappa 
+:xenocircuit!xenocircuit@xenocircuit.tmi.twitch.tv PRIVMSG #wingsofdeath :!8Ball is wings KappaPride 
+:dark_lord9900!dark_lord9900@dark_lord9900.tmi.twitch.tv PRIVMSG #wingsofdeath :SwiftRage ))))) 
+:franzfranzowitsch!franzfranzowitsch@franzfranzowitsch.tmi.twitch.tv PRIVMSG #wingsofdeath :WutFace 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :StinkyCheese 
+:momthemeatlof!momthemeatlof@momthemeatlof.tmi.twitch.tv PRIVMSG #wingsofdeath :type !giveaway platinum1 to enter giveaway Keepo 
+:joigber!joigber@joigber.tmi.twitch.tv PRIVMSG #wingsofdeath :wow you suck! 
+:dutchstyx!dutchstyx@dutchstyx.tmi.twitch.tv PRIVMSG #wingsofdeath :1onia for mod Kappa 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :dutchstyx hmmm... 🤔 
+:walltje!walltje@walltje.tmi.twitch.tv PRIVMSG #wingsofdeath :BabyRage 
+:demonhunterkappa!demonhunterkappa@demonhunterkappa.tmi.twitch.tv PRIVMSG #wingsofdeath :!playlist 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :Xenocircuit what you mean?!? BibleThump 
+:he1111oween!he1111oween@he1111oween.tmi.twitch.tv PRIVMSG #wingsofdeath :blame jungler as always 
+:3mancipator!3mancipator@3mancipator.tmi.twitch.tv PRIVMSG #wingsofdeath :feeder noob Kappa 
+:xnazzy19x!xnazzy19x@xnazzy19x.tmi.twitch.tv PRIVMSG #wingsofdeath :rolf 
+:gradathon!gradathon@gradathon.tmi.twitch.tv PRIVMSG #wingsofdeath :dies. flames jg 
+:yakamushi!yakamushi@yakamushi.tmi.twitch.tv PRIVMSG #wingsofdeath :spamming a jayce mastery is like swinging a micro penis, noone will be impressed Kappa 
+:momthemeatlof!momthemeatlof@momthemeatlof.tmi.twitch.tv PRIVMSG #wingsofdeath :wingRAGE 
+:he1111oween!he1111oween@he1111oween.tmi.twitch.tv PRIVMSG #wingsofdeath :Piece of shit noob streamer 
+:he1111oween!he1111oween@he1111oween.tmi.twitch.tv PRIVMSG #wingsofdeath :xd 
+:bakaro22!bakaro22@bakaro22.tmi.twitch.tv PRIVMSG #wingsofdeath :@Wingsofdeath feelsbadman when jungle neglects you 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :PJSalt PJSalt PJSalt PJSalt PJSalt PJSalt PJSalt 
+:mrhotice!mrhotice@mrhotice.tmi.twitch.tv PRIVMSG #wingsofdeath :Your supposed to go stinger for the 20% cdr instantly you gp Noob SwiftRage 
+:metrobooomin!metrobooomin@metrobooomin.tmi.twitch.tv PRIVMSG #wingsofdeath :Jebaited 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :ftnaBAD 
+:dark_lord9900!dark_lord9900@dark_lord9900.tmi.twitch.tv PRIVMSG #wingsofdeath :yakamushi rofl 
+:dogtownkram!dogtownkram@dogtownkram.tmi.twitch.tv PRIVMSG #wingsofdeath :i had a hangover ahhh yooo hooo 
+:moragtao!moragtao@moragtao.tmi.twitch.tv PRIVMSG #wingsofdeath :MORE ALESTORM!! <3 
+:dutchstyx!dutchstyx@dutchstyx.tmi.twitch.tv PRIVMSG #wingsofdeath :1onia for mod Kappa 
+:zero0exe!zero0exe@zero0exe.tmi.twitch.tv PRIVMSG #wingsofdeath :PepePls 
+:darthblace!darthblace@darthblace.tmi.twitch.tv PRIVMSG #wingsofdeath :Tobito would not be proud Notlikethis 
+:asadocco!asadocco@asadocco.tmi.twitch.tv PRIVMSG #wingsofdeath :Is reksai even doing anything? 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :Damn I actually followed Wingsofdeath 3 years ago 0.o PogChamp 
+:dark_lord9900!dark_lord9900@dark_lord9900.tmi.twitch.tv PRIVMSG #wingsofdeath :nice farm Kappa 
+:finmafia!finmafia@finmafia.tmi.twitch.tv PRIVMSG #wingsofdeath :turn of this music 
+:fpacks!fpacks@fpacks.tmi.twitch.tv PRIVMSG #wingsofdeath :tobito wannabe EleGiggle 
+:1onia!1onia@1onia.tmi.twitch.tv PRIVMSG #wingsofdeath :@dutchstyx Kappa 
+:richiehuang!richiehuang@richiehuang.tmi.twitch.tv PRIVMSG #wingsofdeath :what is this music 
+:emreyo!emreyo@emreyo.tmi.twitch.tv PRIVMSG #wingsofdeath :nice tobias cosplay Kappa 
+:shythesly!shythesly@shythesly.tmi.twitch.tv PRIVMSG #wingsofdeath :FUK YE SwiftRage 
+:tastymcawesome!tastymcawesome@tastymcawesome.tmi.twitch.tv PRIVMSG #wingsofdeath :This used to be a riven stream FeelsBadMan 
+:enkines!enkines@enkines.tmi.twitch.tv PRIVMSG #wingsofdeath :Tobias fate wannabe, and listening to his playlust lmao 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :Magnetic North bitchessss 
+:flyingford!flyingford@flyingford.tmi.twitch.tv PRIVMSG #wingsofdeath :ull never be as good as tobio flappachine 
+:dark_lord9900!dark_lord9900@dark_lord9900.tmi.twitch.tv PRIVMSG #wingsofdeath :NICE BUILD 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :bankplank is better vs easier matchups imo jayce is cansur 
+:afareng_!afareng_@afareng_.tmi.twitch.tv PRIVMSG #wingsofdeath :@Enkines, he is listening to alestorm because its the only way to play gp 
+:dark_lord9900!dark_lord9900@dark_lord9900.tmi.twitch.tv PRIVMSG #wingsofdeath :Kappa 
+:delfaradas!delfaradas@delfaradas.tmi.twitch.tv PRIVMSG #wingsofdeath :Enkines, are you serious FailFish 
+:shiizeeeh!shiizeeeh@shiizeeeh.tmi.twitch.tv PRIVMSG #wingsofdeath :Wings obviously onetricks gp and plays if every day on streak Kappa 
+:geforce789!geforce789@geforce789.tmi.twitch.tv PRIVMSG #wingsofdeath :@Enkines FailFish 
+:enkines!enkines@enkines.tmi.twitch.tv PRIVMSG #wingsofdeath :Why you playing tobias playlist music?? 
+:cheechisb4ck!cheechisb4ck@cheechisb4ck.tmi.twitch.tv PRIVMSG #wingsofdeath :WutFace 
+:xenocircuit!xenocircuit@xenocircuit.tmi.twitch.tv PRIVMSG #wingsofdeath :Follow Mohammed ANELE 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :OSkomodo OSkomodo OSkomodo OSkomodo 
+:remokill!remokill@remokill.tmi.twitch.tv PRIVMSG #wingsofdeath :!song 
+:dutchstyx!dutchstyx@dutchstyx.tmi.twitch.tv PRIVMSG #wingsofdeath :@wingsofdeath According to Tobito Flappechino, GP overlord you need Sultan GP if going bankplank. 
+:xanbot!xanbot@xanbot.tmi.twitch.tv PRIVMSG #wingsofdeath :http://www.twitchecho.com/ 
+:horsejackets!horsejackets@horsejackets.tmi.twitch.tv PRIVMSG #wingsofdeath :TopHam 
+:mik3nik3500!mik3nik3500@mik3nik3500.tmi.twitch.tv PRIVMSG #wingsofdeath :wingRAGE wingRAGE SwiftRage SwiftRage SwiftRage 
+:delfaradas!delfaradas@delfaradas.tmi.twitch.tv PRIVMSG #wingsofdeath :Enkines, you are retarded , please leave FailFish 
+:geforce789!geforce789@geforce789.tmi.twitch.tv PRIVMSG #wingsofdeath :its not his playlist FailFish 
+:wingsofcuck!wingsofcuck@wingsofcuck.tmi.twitch.tv PRIVMSG #wingsofdeath :school shooter music WutFace 
+:zero0exe!zero0exe@zero0exe.tmi.twitch.tv PRIVMSG #wingsofdeath :didn't know you could copyright the music you play on stream LUL 
+:celedr!celedr@celedr.tmi.twitch.tv PRIVMSG #wingsofdeath :+6 PogChamp 
+:unkomisterx!unkomisterx@unkomisterx.tmi.twitch.tv PRIVMSG #wingsofdeath :+6 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :THE Q!! PogChamp 
+:thatlastelement!thatlastelement@thatlastelement.tmi.twitch.tv PRIVMSG #wingsofdeath :+6 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :OSkomodo OSkomodo 
+:xenocircuit!xenocircuit@xenocircuit.tmi.twitch.tv PRIVMSG #wingsofdeath :Follow Mohammed ANELE Follow Mohammed ANELE 
+:shythesly!shythesly@shythesly.tmi.twitch.tv PRIVMSG #wingsofdeath :Tobias fate's music LUL 
+:enkines!enkines@enkines.tmi.twitch.tv PRIVMSG #wingsofdeath :@delfaradas inlove you dad 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :MoneyPlank PogChamp 
+:bearsofdeathx!bearsofdeathx@bearsofdeathx.tmi.twitch.tv PRIVMSG #wingsofdeath :OSkomodo IceCold 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :do the 1 barrel combo ftnaCHAMP 
+:dark_lord9900!dark_lord9900@dark_lord9900.tmi.twitch.tv PRIVMSG #wingsofdeath :SwiftRage )))) 
+:mrlittlesam!mrlittlesam@mrlittlesam.tmi.twitch.tv PRIVMSG #wingsofdeath :SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage SwiftRage 
+:enkines!enkines@enkines.tmi.twitch.tv PRIVMSG #wingsofdeath :Tobias music woohooo 
+:antonavy!antonavy@antonavy.tmi.twitch.tv PRIVMSG #wingsofdeath :and by full you mean 75% :) 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :hey hey OSkomodo 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :you can 
+:mrhotice!mrhotice@mrhotice.tmi.twitch.tv PRIVMSG #wingsofdeath :@wingsofdeath shoulda gone the stinger so you would have max cdr anyway 
+:afareng_!afareng_@afareng_.tmi.twitch.tv PRIVMSG #wingsofdeath :@Wingsofdeath, go listen to sabaton too just like tobito 
+:supamasterultrakush!supamasterultrakush@supamasterultrakush.tmi.twitch.tv PRIVMSG #wingsofdeath :This song Kappa 
+:shiizeeeh!shiizeeeh@shiizeeeh.tmi.twitch.tv PRIVMSG #wingsofdeath :This man cant even play gp without getting called tobias fate fanboy, like wtf? Lmao 
+PING :tmi.twitch.tv 
+:tmi.twitch.tv 001 dankmemebot1 :Welcome, GLHF!
+:tmi.twitch.tv 002 dankmemebot1 :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 dankmemebot1 :This server is rather new
+:tmi.twitch.tv 004 dankmemebot1 :-
+:tmi.twitch.tv 375 dankmemebot1 :-
+:tmi.twitch.tv 372 dankmemebot1 :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 dankmemebot1 :>
+:dankmemebot1!dankmemebot1@dankmemebot1.tmi.twitch.tv JOIN #wingsofdeath
+:dankmemebot1.tmi.twitch.tv 353 dankmemebot1 = #wingsofdeath :dankmemebot1
+:dankmemebot1.tmi.twitch.tv 366 dankmemebot1 #wingsofdeath :End of /NAMES list 
+:demonhunterkappa!demonhunterkappa@demonhunterkappa.tmi.twitch.tv PRIVMSG #wingsofdeath :Can someone send me the playlist? 
+:dark_lord9900!dark_lord9900@dark_lord9900.tmi.twitch.tv PRIVMSG #wingsofdeath :GP IS SHIIT 
+:fullautotuna!fullautotuna@fullautotuna.tmi.twitch.tv PRIVMSG #wingsofdeath :Is there any way to play Karthas without using his q? Kappa 
+:afareng_!afareng_@afareng_.tmi.twitch.tv PRIVMSG #wingsofdeath :critplank PogChamp 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :critplank ftnaCHAMP ftnaGASM 
+:xenocircuit!xenocircuit@xenocircuit.tmi.twitch.tv PRIVMSG #wingsofdeath :@fullautotuna Yeah Kappa it's called feeding Kappa 
+:flyingford!flyingford@flyingford.tmi.twitch.tv PRIVMSG #wingsofdeath :URF and spam ult 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :I thought you could only play critplank 
+:gabelstabelfahrer!gabelstabelfahrer@gabelstabelfahrer.tmi.twitch.tv PRIVMSG #wingsofdeath ::( that makes me sad. so i wont touch gp ever again 
+:xsodarkcarver!xsodarkcarver@xsodarkcarver.tmi.twitch.tv PRIVMSG #wingsofdeath :the jayce top freeze though 
+:dark_lord9900!dark_lord9900@dark_lord9900.tmi.twitch.tv PRIVMSG #wingsofdeath :@FullAutoTuna yes feed the all game 
+:zygarel!zygarel@zygarel.tmi.twitch.tv PRIVMSG #wingsofdeath :@FullAutoTuna, sure, it's called INTHUS Kappa 
+:xsodarkcarver!xsodarkcarver@xsodarkcarver.tmi.twitch.tv PRIVMSG #wingsofdeath :so bronze 
+:420peterenis69!420peterenis69@420peterenis69.tmi.twitch.tv PRIVMSG #wingsofdeath :play trand without rightclick Kappa 
+:ivanb09!ivanb09@ivanb09.tmi.twitch.tv PRIVMSG #wingsofdeath :it would be like old gp 
+:bearsofdeathx!bearsofdeathx@bearsofdeathx.tmi.twitch.tv PRIVMSG #wingsofdeath :@Wingsofdeath, yeah was just answering a question 
+:420peterenis69!420peterenis69@420peterenis69.tmi.twitch.tv PRIVMSG #wingsofdeath :trynd 
+:ivanb09!ivanb09@ivanb09.tmi.twitch.tv PRIVMSG #wingsofdeath :getting fuck every second 
+:walltje!walltje@walltje.tmi.twitch.tv PRIVMSG #wingsofdeath :cucked LUL 
+:gabelstabelfahrer!gabelstabelfahrer@gabelstabelfahrer.tmi.twitch.tv PRIVMSG #wingsofdeath :when i play lol i play drunk. so i dunno how to place barrels at all Keepo 
+:xxx_420_big_bonr_69_xxx!xxx_420_big_bonr_69_xxx@xxx_420_big_bonr_69_xxx.tmi.twitch.tv PRIVMSG #wingsofdeath :2 clean PogChamp being Muted 
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :lol 
+:dutchstyx!dutchstyx@dutchstyx.tmi.twitch.tv PRIVMSG #wingsofdeath :@smites Many ways to play GP, Bankplank, Tankplank, Critplank, Manplank (starting longsword +ignite) 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :FailFish 
+:xxx_420_big_bonr_69_xxx!xxx_420_big_bonr_69_xxx@xxx_420_big_bonr_69_xxx.tmi.twitch.tv PRIVMSG #wingsofdeath :2 clean PogChamp being Muted 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :lmao dutchstyx MingLee 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :this is why riot needs to delete yasuo FailFish 
+:dogtownkram!dogtownkram@dogtownkram.tmi.twitch.tv PRIVMSG #wingsofdeath :just shove it KappaPride 
+:afareng_!afareng_@afareng_.tmi.twitch.tv PRIVMSG #wingsofdeath :not loud 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :BibleThump BibleThump BibleThump 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :JUST SHOVE IT gachiGASM 
+:robyay!robyay@robyay.tmi.twitch.tv PRIVMSG #wingsofdeath :its ok wings 
+:afareng_!afareng_@afareng_.tmi.twitch.tv PRIVMSG #wingsofdeath :on tobito stream i have to put my volume on 1 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:xxx_420_big_bonr_69_xxx!xxx_420_big_bonr_69_xxx@xxx_420_big_bonr_69_xxx.tmi.twitch.tv PRIVMSG #wingsofdeath :2 clean PogChamp being Muted 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :shove it in ftnaGASM ftnaPRIDE 
+:afareng_!afareng_@afareng_.tmi.twitch.tv PRIVMSG #wingsofdeath :here its on 6 
+:xanbot!xanbot@xanbot.tmi.twitch.tv PRIVMSG #wingsofdeath :You can subscribe to support the stream here! https://www.twitch.tv/products/wingsofdeath/ticket benefits include a subscriber icon, access to subscriber emotes, no ads during commercial breaks, not affected by chat slow mode as well as subscriber status in discord and access to subscriber games! 
+:francvsmaximvs!francvsmaximvs@francvsmaximvs.tmi.twitch.tv PRIVMSG #wingsofdeath :Leave man, Epicness is never enought 
+:tyranikal!tyranikal@tyranikal.tmi.twitch.tv PRIVMSG #wingsofdeath :this xerath misses every skillshot 
+:bearsofdeathx!bearsofdeathx@bearsofdeathx.tmi.twitch.tv PRIVMSG #wingsofdeath :VoHiYo Rem Ranch VoHiYo 
+:tastymcawesome!tastymcawesome@tastymcawesome.tmi.twitch.tv PRIVMSG #wingsofdeath :One must listen to Pirates music when playing Jack Sparrow 
+:zepiratekittyzombie!zepiratekittyzombie@zepiratekittyzombie.tmi.twitch.tv PRIVMSG #wingsofdeath :oh look a happy little BARREL PogChamp 
+:flyingford!flyingford@flyingford.tmi.twitch.tv PRIVMSG #wingsofdeath :REEEEEEEEE 
+:xxx_420_big_bonr_69_xxx!xxx_420_big_bonr_69_xxx@xxx_420_big_bonr_69_xxx.tmi.twitch.tv PRIVMSG #wingsofdeath :2 clean PogChamp being Muted 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :@Tyranikal, he just hit one idiot 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM ' 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :WholeWheat 
+:aleatlol!aleatlol@aleatlol.tmi.twitch.tv PRIVMSG #wingsofdeath :How easy is jayce to pick up? 
+:gigav!gigav@gigav.tmi.twitch.tv PRIVMSG #wingsofdeath :Kreygasm BANKPLANK 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath ::T 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath ::R 
+:j0ntex7!j0ntex7@j0ntex7.tmi.twitch.tv PRIVMSG #wingsofdeath :PogChamp !song 
+:dutchstyx!dutchstyx@dutchstyx.tmi.twitch.tv PRIVMSG #wingsofdeath :@wingsofdeath Say "Get shit on" with Tobito accent Kappa 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :@AleatLoL, well he weighs about 160 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :@AleatLoL, you need 15 games 
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :R) 
+:ricoking33!ricoking33@ricoking33.tmi.twitch.tv PRIVMSG #wingsofdeath :SOOONG PogChamp 
+:harisdcvr!harisdcvr@harisdcvr.tmi.twitch.tv PRIVMSG #wingsofdeath :ResidentSleeper ResidentSleeper ResidentSleeper 
+:davven77!davven77@davven77.tmi.twitch.tv PRIVMSG #wingsofdeath :guys; is nidalee viable?????? 
+:shiizeeeh!shiizeeeh@shiizeeeh.tmi.twitch.tv PRIVMSG #wingsofdeath :@aleatlol pretty hard if u wanna master combos 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:tyranikal!tyranikal@tyranikal.tmi.twitch.tv PRIVMSG #wingsofdeath :@twitchchatihateyou lol, 2 hits in 21 mins 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath ::sword 
+:gabelstabelfahrer!gabelstabelfahrer@gabelstabelfahrer.tmi.twitch.tv PRIVMSG #wingsofdeath :@wingsofdeath do u remember when u played this soundtrack with critplank like a year ago? those games were awesome <3 <3 
+:noicefc!noicefc@noicefc.tmi.twitch.tv PRIVMSG #wingsofdeath :just auto the barrel 
+:afareng_!afareng_@afareng_.tmi.twitch.tv PRIVMSG #wingsofdeath :from 292 to 348 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath ::sword: 
+:walltje!walltje@walltje.tmi.twitch.tv PRIVMSG #wingsofdeath :"broken" Kappa 
+:aleatlol!aleatlol@aleatlol.tmi.twitch.tv PRIVMSG #wingsofdeath :lmao thanks guys 
+:ganongamer14!ganongamer14@ganongamer14.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM 🎐 💦 Jebaited SoSnowy 
+:dutchstyx!dutchstyx@dutchstyx.tmi.twitch.tv PRIVMSG #wingsofdeath :LUL 
+:dogtownkram!dogtownkram@dogtownkram.tmi.twitch.tv PRIVMSG #wingsofdeath :arghh im a pirate for butss KappaPride 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :xd 
+:shiizeeeh!shiizeeeh@shiizeeeh.tmi.twitch.tv PRIVMSG #wingsofdeath :@davven77 not worth playing 
+:dankestofmemers!dankestofmemers@dankestofmemers.tmi.twitch.tv PRIVMSG #wingsofdeath :LUL 
+:ihaveyoursoul!ihaveyoursoul@ihaveyoursoul.tmi.twitch.tv PRIVMSG #wingsofdeath :LUL 
+:thatlastelement!thatlastelement@thatlastelement.tmi.twitch.tv PRIVMSG #wingsofdeath :LUL 
+:zero0exe!zero0exe@zero0exe.tmi.twitch.tv PRIVMSG #wingsofdeath :LUL fraud 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :@AleatLoL, did you like my joke 
+:davven77!davven77@davven77.tmi.twitch.tv PRIVMSG #wingsofdeath :@shiizeeeh, why 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :🔫 R) 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM ' 
+:shiizeeeh!shiizeeeh@shiizeeeh.tmi.twitch.tv PRIVMSG #wingsofdeath :@aleatlol u should check youtube videos about jayce combos, there are a lot 
+:xenocircuit!xenocircuit@xenocircuit.tmi.twitch.tv PRIVMSG #wingsofdeath :What a god PogChamp 
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:mojigaj!mojigaj@mojigaj.tmi.twitch.tv PRIVMSG #wingsofdeath :they died while you were tyring to make fun with a fucked up chain 
+:xsodarkcarver!xsodarkcarver@xsodarkcarver.tmi.twitch.tv PRIVMSG #wingsofdeath :this jayce is literally using all the bronze strags 
+:walltje!walltje@walltje.tmi.twitch.tv PRIVMSG #wingsofdeath :LUL 
+:mrhotice!mrhotice@mrhotice.tmi.twitch.tv PRIVMSG #wingsofdeath :LUL 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:dankestofmemers!dankestofmemers@dankestofmemers.tmi.twitch.tv PRIVMSG #wingsofdeath :LUL 
+:shiizeeeh!shiizeeeh@shiizeeeh.tmi.twitch.tv PRIVMSG #wingsofdeath :@davven77 cause there are better junglers like lee reksai elise ivern 
+:aleatlol!aleatlol@aleatlol.tmi.twitch.tv PRIVMSG #wingsofdeath :@twitchchatihateyou ye i keked my dude 
+:sarottinger!sarottinger@sarottinger.tmi.twitch.tv PRIVMSG #wingsofdeath :sorrey team need 2more for co 
+:hashinshin1!hashinshin1@hashinshin1.tmi.twitch.tv PRIVMSG #wingsofdeath :LOL 
+:yull_rete!yull_rete@yull_rete.tmi.twitch.tv PRIVMSG #wingsofdeath :got cull, worth 
+:aleatlol!aleatlol@aleatlol.tmi.twitch.tv PRIVMSG #wingsofdeath :@shiizeeeh Ok thanks man 
+:toilet_boss!toilet_boss@toilet_boss.tmi.twitch.tv PRIVMSG #wingsofdeath :Wongs is so useless lol 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :@AleatLoL, lol. nice 
+:ihaveyoursoul!ihaveyoursoul@ihaveyoursoul.tmi.twitch.tv PRIVMSG #wingsofdeath :WingsofCull LUL 
+:vicac0!vicac0@vicac0.tmi.twitch.tv PRIVMSG #wingsofdeath :na flash 
+:xenocircuit!xenocircuit@xenocircuit.tmi.twitch.tv PRIVMSG #wingsofdeath :FeelsBadMan 
+:blackerthannight!blackerthannight@blackerthannight.tmi.twitch.tv PRIVMSG #wingsofdeath :4.5k viewers? hoho 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :What I did when I played GP. Kept tunelling on placing barrels that i got too close to the fight and died FeelsBadMan
+:davven77!davven77@davven77.tmi.twitch.tv PRIVMSG #wingsofdeath :@shiizeeeh, im a nida main but ur right :/ 
+:x_xandix_x!x_xandix_x@x_xandix_x.tmi.twitch.tv PRIVMSG #wingsofdeath :wings gp is so bad jesus lol 
+:zepiratekittyzombie!zepiratekittyzombie@zepiratekittyzombie.tmi.twitch.tv PRIVMSG #wingsofdeath :sell it now for crit 
+PING :tmi.twitch.tv 
+:xxx_420_big_bonr_69_xxx!xxx_420_big_bonr_69_xxx@xxx_420_big_bonr_69_xxx.tmi.twitch.tv PRIVMSG #wingsofdeath :2 clean PogChamp being Muted 
+:dutchterra!dutchterra@dutchterra.tmi.twitch.tv PRIVMSG #wingsofdeath :trust me daddy 
+:yull_rete!yull_rete@yull_rete.tmi.twitch.tv PRIVMSG #wingsofdeath :sell it for crit cloak 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM THRUST ME gachiGASM 
+:blackerthannight!blackerthannight@blackerthannight.tmi.twitch.tv PRIVMSG #wingsofdeath :who can say no to wangs hot knees 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :Stop trolling wings, just kill them all already FeelsBadMan 
+:summertimelivingez!summertimelivingez@summertimelivingez.tmi.twitch.tv PRIVMSG #wingsofdeath :no tobito FeelsBadMan\ 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM THRUST ME gachiGASM 
+:shiizeeeh!shiizeeeh@shiizeeeh.tmi.twitch.tv PRIVMSG #wingsofdeath :@aleatlol i dont play him myself but ive seen a video of combos and it was like 6mins long of combos and anjmation cancels 
+:gigav!gigav@gigav.tmi.twitch.tv PRIVMSG #wingsofdeath :Kreygasm 
+:asadocco!asadocco@asadocco.tmi.twitch.tv PRIVMSG #wingsofdeath :@wingsofdeath i miss old gp BibleThump 
+:bleedingtear!bleedingtear@bleedingtear.tmi.twitch.tv PRIVMSG #wingsofdeath :FeelsBadMan IceCold 
+:summertimelivingez!summertimelivingez@summertimelivingez.tmi.twitch.tv PRIVMSG #wingsofdeath :Kreygasm 
+:dogtownkram!dogtownkram@dogtownkram.tmi.twitch.tv PRIVMSG #wingsofdeath :lit FeelsBadMan 
+:shiizeeeh!shiizeeeh@shiizeeeh.tmi.twitch.tv PRIVMSG #wingsofdeath :@davven77 yah loved me some nidalee :( 
+:madmushroom101!madmushroom101@madmushroom101.tmi.twitch.tv PRIVMSG #wingsofdeath :GODPLANK BABY!!! 
+:aleatlol!aleatlol@aleatlol.tmi.twitch.tv PRIVMSG #wingsofdeath :@shiizeeeh oof okay, thanks 
+:flyingford!flyingford@flyingford.tmi.twitch.tv PRIVMSG #wingsofdeath :old gp DansGame 
+:dark_lord9900!dark_lord9900@dark_lord9900.tmi.twitch.tv PRIVMSG #wingsofdeath :PROMISE Kappa 
+:horsejackets!horsejackets@horsejackets.tmi.twitch.tv PRIVMSG #wingsofdeath :CurseLit IceCold 
+:dutchstyx!dutchstyx@dutchstyx.tmi.twitch.tv PRIVMSG #wingsofdeath :Tough choice.. Watching Wings or Tobito flappuchino... FeelsBadMan 
+:wdtfshi!wdtfshi@wdtfshi.tmi.twitch.tv PRIVMSG #wingsofdeath :Hey chat wingPOLICE 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:maitre996!maitre996@maitre996.tmi.twitch.tv PRIVMSG #wingsofdeath :4Head Wingsofdeath thinks he has a lot of viewers, but in reality, it's just me watching on all my accounts 4Head 
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :old GP would one shot FeelsBadMan and make our pants tighter when he one shot Jebaited SoSnowy 
+:robyay!robyay@robyay.tmi.twitch.tv PRIVMSG #wingsofdeath :and your cull 
+:xxx_420_big_bonr_69_xxx!xxx_420_big_bonr_69_xxx@xxx_420_big_bonr_69_xxx.tmi.twitch.tv PRIVMSG #wingsofdeath :2 clean PogChamp being Muted 
+:yull_rete!yull_rete@yull_rete.tmi.twitch.tv PRIVMSG #wingsofdeath :spellthief's has almost paid for itself 
+:xxx_420_big_bonr_69_xxx!xxx_420_big_bonr_69_xxx@xxx_420_big_bonr_69_xxx.tmi.twitch.tv PRIVMSG #wingsofdeath :2 clean PogChamp being Muted 
+:tmi.twitch.tv 001 dankmemebot1 :Welcome, GLHF!
+:tmi.twitch.tv 002 dankmemebot1 :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 dankmemebot1 :This server is rather new
+:tmi.twitch.tv 004 dankmemebot1 :-
+:tmi.twitch.tv 375 dankmemebot1 :-
+:tmi.twitch.tv 372 dankmemebot1 :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 dankmemebot1 :> 
+:dankmemebot1!dankmemebot1@dankmemebot1.tmi.twitch.tv JOIN #wingsofdeath
+:dankmemebot1.tmi.twitch.tv 353 dankmemebot1 = #wingsofdeath :dankmemebot1
+:dankmemebot1.tmi.twitch.tv 366 dankmemebot1 #wingsofdeath :End of /NAMES list 
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM SoSnowy THIS ISNT SNOW gachiGASM SoSnowy 
+:rapiersux!rapiersux@rapiersux.tmi.twitch.tv PRIVMSG #wingsofdeath :Jabaited SoSnowy 
+:theoddgliga!theoddgliga@theoddgliga.tmi.twitch.tv PRIVMSG #wingsofdeath :fk noob Kappa 
+:xanbot!xanbot@xanbot.tmi.twitch.tv PRIVMSG #wingsofdeath :You can subscribe to support the stream here! https://www.twitch.tv/products/wingsofdeath/ticket benefits include a subscriber icon, access to subscriber emotes, no ads during commercial breaks, not affected by chat slow mode as well as subscriber status in discord and access to subscriber games! 
+:tastymcawesome!tastymcawesome@tastymcawesome.tmi.twitch.tv PRIVMSG #wingsofdeath :qtpPLS SoSnowy qtpPLS SoSnowy qtpPLS SoSnowy qtpPLS SoSnowy qtpPLS SoSnowy 
+:pedro4ntonio!pedro4ntonio@pedro4ntonio.tmi.twitch.tv PRIVMSG #wingsofdeath :SoSnowy THIS IS MAN JUICE gachiGASM SoSnowy 
+:asadocco!asadocco@asadocco.tmi.twitch.tv PRIVMSG #wingsofdeath :Old gp would have no problem chasing BIBLEthump 
+:horsejackets!horsejackets@horsejackets.tmi.twitch.tv PRIVMSG #wingsofdeath :This streamer looks very FK NOOB :/ 
+:zero0exe!zero0exe@zero0exe.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM SoSnowy \ Jebaited 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM SoSnowy THIS ISNT SNOW gachiGASM SoSnowy 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :wtf that jayce 
+:pedro4ntonio!pedro4ntonio@pedro4ntonio.tmi.twitch.tv PRIVMSG #wingsofdeath :SoSnowy THIS IS MAN JUICE gachiGASM SoSnowy . 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :PERFORMANCE ARTIST gachiGASM 
+:king_swaglord!king_swaglord@king_swaglord.tmi.twitch.tv PRIVMSG #wingsofdeath :\ Jebaited / 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:wingsofcuck!wingsofcuck@wingsofcuck.tmi.twitch.tv PRIVMSG #wingsofdeath :FreakinStinkin 
+:shiizeeeh!shiizeeeh@shiizeeeh.tmi.twitch.tv PRIVMSG #wingsofdeath :This is a moment where i wish there were mods :( 
+:exlias!exlias@exlias.tmi.twitch.tv PRIVMSG #wingsofdeath :imGlitch ME TWITCH STAFF imGlitch ME SPAM imGlitch NO STREAM imGlitch IF BAN 
+:zero0exe!zero0exe@zero0exe.tmi.twitch.tv PRIVMSG #wingsofdeath :don't worry reksai I came gachiGASM SoSnowy 
+:instabusted!instabusted@instabusted.tmi.twitch.tv PRIVMSG #wingsofdeath :tfw bttv no work 
+:thecroat21!thecroat21@thecroat21.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM SoSnowy 
+:maitre996!maitre996@maitre996.tmi.twitch.tv PRIVMSG #wingsofdeath :Follow Mohamed LUL 
+:king_swaglord!king_swaglord@king_swaglord.tmi.twitch.tv PRIVMSG #wingsofdeath :PartyTime 
+:mojigaj!mojigaj@mojigaj.tmi.twitch.tv PRIVMSG #wingsofdeath :you'r doing nothing just famrin, help you team ffs 
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM SoSnowy RAM RANCH WITH WANGS AND HEISENDONG SoSnowy
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:torak334!torak334@torak334.tmi.twitch.tv PRIVMSG #wingsofdeath :4v5 lol 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :ill chop my balls off if i see one more " :) " 
+:specterchance!specterchance@specterchance.tmi.twitch.tv PRIVMSG #wingsofdeath :3:39 PM UTC Update: Our changes have shown another large improvement on logins, and we are beginning to proceed forward to release Kyrios 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :pd 
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM SoSnowy RAM RANCH WITH WANGS AND HEISENDONG gachiGASM SoSnowy 
+:wingsofcuck!wingsofcuck@wingsofcuck.tmi.twitch.tv PRIVMSG #wingsofdeath :TwitchRPG ME TREE TwitchRPG ME SPAM TwitchRPG NO OXYGEN TwitchRPG IF BAN TwitchRPG 
+:stelyo_pipis!stelyo_pipis@stelyo_pipis.tmi.twitch.tv PRIVMSG #wingsofdeath :pd 
+:whisperwhipper!whisperwhipper@whisperwhipper.tmi.twitch.tv PRIVMSG #wingsofdeath :lord doms 
+:torak334!torak334@torak334.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:stelyo_pipis!stelyo_pipis@stelyo_pipis.tmi.twitch.tv PRIVMSG #wingsofdeath :FCKIN PD 
+:bbillyboi!bbillyboi@bbillyboi.tmi.twitch.tv PRIVMSG #wingsofdeath :PD 
+:mister_peach!mister_peach@mister_peach.tmi.twitch.tv PRIVMSG #wingsofdeath :Too pussy 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :@Torak334, wtf?
+:fpacks!fpacks@fpacks.tmi.twitch.tv PRIVMSG #wingsofdeath :lw/pd 
+:asheyouaquestion!asheyouaquestion@asheyouaquestion.tmi.twitch.tv PRIVMSG #wingsofdeath :LDR 
+:robyay!robyay@robyay.tmi.twitch.tv PRIVMSG #wingsofdeath :Pd all out man mode lul 
+:mister_peach!mister_peach@mister_peach.tmi.twitch.tv PRIVMSG #wingsofdeath :Be a man 
+:fhandrei!fhandrei@fhandrei.tmi.twitch.tv PRIVMSG #wingsofdeath :@Wingsofdeath, get PD to duel jayce 
+:dawnreaper13!dawnreaper13@dawnreaper13.tmi.twitch.tv PRIVMSG #wingsofdeath :PD 
+:mojigaj!mojigaj@mojigaj.tmi.twitch.tv PRIVMSG #wingsofdeath :@Wingsofdeath get a last whisper 
+:winnerboss999!winnerboss999@winnerboss999.tmi.twitch.tv PRIVMSG #wingsofdeath :too 
+:darthblace!darthblace@darthblace.tmi.twitch.tv PRIVMSG #wingsofdeath :PUSSY 
+:moorkvd!moorkvd@moorkvd.tmi.twitch.tv PRIVMSG #wingsofdeath :PD 
+:honnet1997!honnet1997@honnet1997.tmi.twitch.tv PRIVMSG #wingsofdeath :pd 
+:delfaradas!delfaradas@delfaradas.tmi.twitch.tv PRIVMSG #wingsofdeath :LDG 
+:mathias181297!mathias181297@mathias181297.tmi.twitch.tv PRIVMSG #wingsofdeath :PD OR BUSTS 
+:relency!relency@relency.tmi.twitch.tv PRIVMSG #wingsofdeath ::9 
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM 
+:bbillyboi!bbillyboi@bbillyboi.tmi.twitch.tv PRIVMSG #wingsofdeath :Last Wisper 
+:walltje!walltje@walltje.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:stelyo_pipis!stelyo_pipis@stelyo_pipis.tmi.twitch.tv PRIVMSG #wingsofdeath :P D P D 
+:manateesaregreat!manateesaregreat@manateesaregreat.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:dogtownkram!dogtownkram@dogtownkram.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:theoddgliga!theoddgliga@theoddgliga.tmi.twitch.tv PRIVMSG #wingsofdeath :Pd 
+:bearsofdeathx!bearsofdeathx@bearsofdeathx.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:allmaris!allmaris@allmaris.tmi.twitch.tv PRIVMSG #wingsofdeath ::D 
+:d1nzu!d1nzu@d1nzu.tmi.twitch.tv PRIVMSG #wingsofdeath :SECOND IE Kappa 
+:exotic_soul!exotic_soul@exotic_soul.tmi.twitch.tv PRIVMSG #wingsofdeath ::)
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :BE A MAN AND BUY PD 
+:zero0exe!zero0exe@zero0exe.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:jc262002!jc262002@jc262002.tmi.twitch.tv PRIVMSG #wingsofdeath :manplank doesnt build that shit 
+:winnerboss999!winnerboss999@winnerboss999.tmi.twitch.tv PRIVMSG #wingsofdeath :lgbt 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :GUYS WTF 
+:breikas!breikas@breikas.tmi.twitch.tv PRIVMSG #wingsofdeath :Too pussy 
+:cetnam!cetnam@cetnam.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:erict132!erict132@erict132.tmi.twitch.tv PRIVMSG #wingsofdeath ::D 
+:ricoking33!ricoking33@ricoking33.tmi.twitch.tv PRIVMSG #wingsofdeath :PD 
+:dantesomen!dantesomen@dantesomen.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:moorkvd!moorkvd@moorkvd.tmi.twitch.tv PRIVMSG #wingsofdeath :pee-dee
+:darthblace!darthblace@darthblace.tmi.twitch.tv PRIVMSG #wingsofdeath :Ldr and pd after shiv 
+:horsejackets!horsejackets@horsejackets.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :I WAS KIDDING WTF 
+:x_xandix_x!x_xandix_x@x_xandix_x.tmi.twitch.tv PRIVMSG #wingsofdeath :get LORDDOMINICKSREGARD or PD @Wingsofdeath 
+:rapiersux!rapiersux@rapiersux.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:filip_iulian1!filip_iulian1@filip_iulian1.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:darrkw0lff!darrkw0lff@darrkw0lff.tmi.twitch.tv PRIVMSG #wingsofdeath ::) :) :) 
+:erict132!erict132@erict132.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:mrhotice!mrhotice@mrhotice.tmi.twitch.tv PRIVMSG #wingsofdeath :PLEASE DONT GO PD ON GANGPLANK 
+:stelyo_pipis!stelyo_pipis@stelyo_pipis.tmi.twitch.tv PRIVMSG #wingsofdeath :u go both 
+:mik3nik3500!mik3nik3500@mik3nik3500.tmi.twitch.tv PRIVMSG #wingsofdeath :wingBOOTY 
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :BOTH 
+:yull_rete!yull_rete@yull_rete.tmi.twitch.tv PRIVMSG #wingsofdeath :BOTH 
+:ricoking33!ricoking33@ricoking33.tmi.twitch.tv PRIVMSG #wingsofdeath :PD . 
+:mrhotice!mrhotice@mrhotice.tmi.twitch.tv PRIVMSG #wingsofdeath :NOT YET AT LEAST 
+:bleedingtear!bleedingtear@bleedingtear.tmi.twitch.tv PRIVMSG #wingsofdeath ::) IceCold 
+:stelyo_pipis!stelyo_pipis@stelyo_pipis.tmi.twitch.tv PRIVMSG #wingsofdeath :U GO BOTH 
+:ricoking33!ricoking33@ricoking33.tmi.twitch.tv PRIVMSG #wingsofdeath ::) 
+:pinkyoncocaine!pinkyoncocaine@pinkyoncocaine.tmi.twitch.tv PRIVMSG #wingsofdeath :can this retard help his team?? 
+:dr_ilango!dr_ilango@dr_ilango.tmi.twitch.tv PRIVMSG #wingsofdeath :please go sparky @Wingsofdeath 
+:maitre996!maitre996@maitre996.tmi.twitch.tv PRIVMSG #wingsofdeath :why are you guys being passive aggressive fucks? :) 
+:tracerik17!tracerik17@tracerik17.tmi.twitch.tv PRIVMSG #wingsofdeath :JeBaited 
+:protocol_rain!protocol_rain@protocol_rain.tmi.twitch.tv PRIVMSG #wingsofdeath :GET BOTH 
+:mrhotice!mrhotice@mrhotice.tmi.twitch.tv PRIVMSG #wingsofdeath :go shiv first then PD 
+:flyingford!flyingford@flyingford.tmi.twitch.tv PRIVMSG #wingsofdeath :my balls now Kreygasm 
+:ricoking33!ricoking33@ricoking33.tmi.twitch.tv PRIVMSG #wingsofdeath :PD 
+:mojigaj!mojigaj@mojigaj.tmi.twitch.tv PRIVMSG #wingsofdeath :SHIV and last whisper ffs @Wingsofdeath 
+:dankestofmemers!dankestofmemers@dankestofmemers.tmi.twitch.tv PRIVMSG #wingsofdeath :DP INSTEAD OF PD gachiGASM 
+:twitchchatihateyou!twitchchatihateyou@twitchchatihateyou.tmi.twitch.tv PRIVMSG #wingsofdeath :@Pinkyoncocaine, calm down 
+:robyay!robyay@robyay.tmi.twitch.tv PRIVMSG #wingsofdeath :Both or no balls Kappa 
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :gachiGASM SoSnowy RAM RANCH WITH WANGS AND HEISENDONG gachiGASM SoSnowy
+:mrhotice!mrhotice@mrhotice.tmi.twitch.tv PRIVMSG #wingsofdeath :@wingsofdeath need shiv before pd
+:bearsofdeathx!bearsofdeathx@bearsofdeathx.tmi.twitch.tv PRIVMSG #wingsofdeath :asking twitch chat why they're being retarded LUL futile question
+:gradathon!gradathon@gradathon.tmi.twitch.tv PRIVMSG #wingsofdeath :@Wingsofdeath WHY NOT BOTH VoHiYo VoHiYo
+:advancednoob19!advancednoob19@advancednoob19.tmi.twitch.tv PRIVMSG #wingsofdeath :dp Kreygasm
+:celedr!celedr@celedr.tmi.twitch.tv PRIVMSG #wingsofdeath :hey guys if you flame please be sure to add a smiley to make it seem less offensive :)
+:asheyouaquestion!asheyouaquestion@asheyouaquestion.tmi.twitch.tv PRIVMSG #wingsofdeath :LDR
+:headless_zombiex!headless_zombiex@headless_zombiex.tmi.twitch.tv PRIVMSG #wingsofdeath :we need more pirate music SwiftRage
+:stelyo_pipis!stelyo_pipis@stelyo_pipis.tmi.twitch.tv PRIVMSG #wingsofdeath :U GO FKIN BOTH
+:mathias181297!mathias181297@mathias181297.tmi.twitch.tv PRIVMSG #wingsofdeath :SHIV AND PD
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :yasuo LUL
+:wuhy!wuhy@wuhy.tmi.twitch.tv PRIVMSG #wingsofdeath :18 naked cowboys with throbbing cocks gachiGASM RAM RANCH gachiGASM
+:manateesaregreat!manateesaregreat@manateesaregreat.tmi.twitch.tv PRIVMSG #wingsofdeath :Hey you people are retarded :)
+:xxv4p3xx!xxv4p3xx@xxv4p3xx.tmi.twitch.tv PRIVMSG #wingsofdeath :There's no music FeelsBadMan IceCold
+:protocol_rain!protocol_rain@protocol_rain.tmi.twitch.tv PRIVMSG #wingsofdeath :wingsofdeath have both shiv and PD
+:afareng_!afareng_@afareng_.tmi.twitch.tv PRIVMSG #wingsofdeath :get essence reaver
+:smites!smites@smites.tmi.twitch.tv PRIVMSG #wingsofdeath :MY IMMERSION!! BibleThump
+:dr_ilango!dr_ilango@dr_ilango.tmi.twitch.tv PRIVMSG #wingsofdeath :turret counts are close Kappa
+:immichael93!immichael93@immichael93.tmi.twitch.tv PRIVMSG #wingsofdeath :GeT wingREKT Yasuo wingRAGE
+:davv 
+en77!davven77@davven77.tmi.twitch.tv PRIVMSG #wingsofdeath :no power music please 
+:dankmemebot1!dankmemebot1@dankmemebot1.tmi.twitch.tv JOIN #wingsofdeath 
+:dankmemebot1.tmi.twitch.tv 353 dankmemebot1 = #wingsofdeath :dankmemebot1
+:dankmemebot1.tmi.twitch.tv 366 dankmemebot1 #wingsofdeath :End of /NAMES list 
+:xanbot!xanbot@xanbot.tmi.twitch.tv PRIVMSG #wingsofdeath :dankmemebot1 kicked for posting link - 
+:motar212!motar212@motar212.tmi.twitch.tv PRIVMSG #wingsofdeath :why did you go for PD over shiv? 
+:fullautotuna!fullautotuna@fullautotuna.tmi.twitch.tv PRIVMSG #wingsofdeath :Play some Under the black flag by miracle of sound 
+:afareng_!afareng_@afareng_.tmi.twitch.tv PRIVMSG #wingsofdeath :play sabaton 
